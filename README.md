@@ -1,5 +1,7 @@
 # solid-octo-carnival
 
+When is testing complete? Never! But we strive for quality that supports fitness for purpose.
+
 It all started with a test!
 Code review testing by bberel
 -Updated by Deepak Gautam
