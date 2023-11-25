@@ -1,25 +1,5 @@
 # solid-octo-carnival
 
-When is testing complete? Never! But we strive for quality that supports fitness for purpose.
+This is a dummy repository I made so people can practice making pull requests. I created the repo as a sample to accompany [this blog post](https://linearb.io/blog/code-review-on-github) I wrote for the LinearB Blog.
 
-It all started with a test!
-Code review testing by bberel
--Updated by Deepak Gautam
-And just a test
-ayoub allali was here 
-trying the propose changes feature
-
-iundan
--Last change proposed by Gowtham
-
-proposing changes to repository
-something
-
-joyann
--learning code reviews
-
-tuscan-blue: practice code review
-
-Testing changes 11/23/2023
-
-Test
+Want to practice making pull requests? Just add one here and I'll accept it. Have fun ;)
